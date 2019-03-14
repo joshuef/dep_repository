@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Josh Wilson <joshuef@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "postinstall" : "echo 'done'",
+  "os" : [ "win32" ],
+  "optionalDependencies" : {
+	  "safe_app" : "https://github.com/joshuef/dep_repository/raw/Storage/safe_app/libsafe_app.dylib.tar.gz",
+	  "safe_auth" : "https://github.com/joshuef/dep_repository/raw/Storage/sys_uri/libsystem_uri.dylib.tar.gz",
+	  "sys_uri" : "https://github.com/joshuef/dep_repository/raw/Storage/safe_app/libsafe_app.dylib.tar.gz"
+  }
 }
