@@ -1,0 +1,11 @@
+{
+  "name": "linux-safe-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Josh Wilson <joshuef@gmail.com>",
+  "license": "MIT",
+  "os" : [ "linux" ],
+  "optionalDependencies" : {
+	  "safe_app" : "https://github.com/joshuef/dep_repository/raw/Storage/safe_app/libsafe_app.so.tar.gz"
+  }
+}

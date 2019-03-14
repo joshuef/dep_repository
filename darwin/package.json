@@ -1,13 +1,12 @@
 {
-  "name": "safe-app-libs",
+  "name": "osx-safe-app",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Josh Wilson <joshuef@gmail.com>",
   "license": "MIT",
+  "postinstall" : "echo 'done'",
   "os" : [ "darwin" ],
   "optionalDependencies" : {
-	  "darwin" : "./darwin",
-	  "linux" : "./linux",
-	  "win32" : "./win32"
+	  "safe_app" : "https://github.com/joshuef/dep_repository/raw/Storage/safe_app/libsafe_app.dylib.tar.gz"
   }
 }
