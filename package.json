@@ -5,7 +5,7 @@
   "author": "Josh Wilson <joshuef@gmail.com>",
   "license": "MIT",
   "postinstall" : "echo 'done'",
-  "os" : [ "osx" ],
+  "os" : [ "darwin" ],
   "optionalDependencies" : {
 	  "safe_app" : "https://github.com/joshuef/dep_repository/raw/Storage/safe_app/libsafe_app.dylib.tar.gz",
 	  "safe_auth" : "https://github.com/joshuef/dep_repository/raw/Storage/sys_uri/libsystem_uri.dylib.tar.gz",
