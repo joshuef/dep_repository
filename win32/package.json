@@ -6,6 +6,6 @@
   "license": "MIT",
   "os" : [ "darwin" ],
   "optionalDependencies" : {
-	  "safe_app" : "https://github.com/joshuef/dep_repository/raw/Storage/safe_app/libsafe_app.dll.tar.gz"
+	  "safe_app" : "https://github.com/joshuef/dep_repository/raw/Storage/safe_app/safe_app.dll.tar.gz"
   }
 }
