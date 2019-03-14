@@ -6,8 +6,8 @@
   "license": "MIT",
   "os" : [ "darwin" ],
   "optionalDependencies" : {
-	  "darwin" : "./darwin",
-	  "linux" : "./linux",
-	  "win32" : "./win32"
+	  "darwin" : "https://github.com/joshuef/dep_repository/darwin#OSX",
+		  "linux" : "https://github.com/joshuef/dep_repository/linux#OSX",
+	  "win32" : "https://github.com/joshuef/dep_repository/win32#OSX"
   }
 }
