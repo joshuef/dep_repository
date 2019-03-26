@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "Josh Wilson <joshuef@gmail.com>",
   "license": "MIT",
-  "os" : [ "darwin" ],
+  "postinstall" : "node dep_check.js",
   "optionalDependencies" : {
 	  "darwin" : "https://github.com/joshuef/dep_repository/raw/master/darwin.tar.gz",
 	  "linux" : "https://github.com/joshuef/dep_repository/raw/master/linux.tar.gz",

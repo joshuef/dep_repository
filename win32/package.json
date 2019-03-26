@@ -4,8 +4,8 @@
   "main": "index.js",
   "author": "Josh Wilson <joshuef@gmail.com>",
   "license": "MIT",
-  "os" : [ "darwin" ],
-  "optionalDependencies" : {
+  "os" : [ "win32" ],
+  "dependencies" : {
 	  "safe_app" : "https://s3.eu-west-2.amazonaws.com/safe-client-libs/safe_app-0.9.1-win-x64.tar.gz"
   }
 }
