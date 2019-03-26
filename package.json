@@ -7,6 +7,6 @@
   "optionalDependencies" : {
 	  "safe-app-darwin" : "https://github.com/joshuef/dep_repository/raw/SourceFromAWS/darwin.tar.gz",
 	  "safe-app-linux" : "https://github.com/joshuef/dep_repository/raw/SourceFromAWS/linux.tar.gz",
-	  "safe-app-windows" : "https://github.com/joshuef/dep_repository/raw/SourceFromAWS/windows.tar.gz"
+	  "safe-app-windows" : "https://github.com/joshuef/dep_repository/raw/SourceFromAWS/win32.tar.gz"
   }
 }
