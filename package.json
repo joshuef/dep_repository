@@ -6,6 +6,6 @@
   "license": "MIT",
   "optionalDependencies" : {
 	  "darwin" : "https://github.com/joshuef/dep_repository/raw/master/darwin.tar.gz",
-	  "linux" : "https://github.com/joshuef/dep_repository/raw/master/linux.tar.gz",
+	  "linux" : "https://github.com/joshuef/dep_repository/raw/master/linux.tar.gz"
   }
 }
