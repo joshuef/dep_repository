@@ -1,6 +1,6 @@
 {
   "name": "linux-safe-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Josh Wilson <joshuef@gmail.com>",
   "license": "MIT",
