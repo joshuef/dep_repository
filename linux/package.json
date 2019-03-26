@@ -6,7 +6,7 @@
   "license": "MIT",
   "os" : [ "linux" ],
   "dependencies" : {
-	 "safe_app_lib" : "https://s3.eu-west-2.amazonaws.com/safe-client-libs/safe_app-0.9.1-linux-x64.tar.gz",
-	 "safe_app_lib_mock" : "https://s3.eu-west-2.amazonaws.com/safe-client-libs/safe_app-mock-0.9.1-linux-x64.tar.gz"
+	"safe_app_lib" : "https://github.com/joshuef/dep_repository/raw/SourceFromAWS/tars/linux.tar.gz",
+	"safe_app_lib_mock" : "https://github.com/joshuef/dep_repository/raw/SourceFromAWS/tars/linux.mock.tar.gz",
   }
 }
