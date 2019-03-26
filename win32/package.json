@@ -6,9 +6,7 @@
   "license": "MIT",
   "os" : [ "win32" ],
   "dependencies" : {
-	  "safe_app_lib" : "https://s3.eu-west-2.amazonaws.com/safe-client-libs/safe_app-0.9.1-win-x64.tar.gz"
-  },
-  "devDependencies" : {
-	 "safe_app" : "https://s3.eu-west-2.amazonaws.com/safe-client-libs/safe_app-mock-0.9.1-win-x64.tar.gz"
+	  "safe_app_lib" : "https://s3.eu-west-2.amazonaws.com/safe-client-libs/safe_app-0.9.1-win-x64.tar.gz",
+	  "safe_app_lib_mock" : "https://s3.eu-west-2.amazonaws.com/safe-client-libs/safe_app-mock-0.9.1-win-x64.tar.gz"
   }
 }
