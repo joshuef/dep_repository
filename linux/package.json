@@ -6,6 +6,6 @@
   "license": "MIT",
   "os" : [ "linux" ],
   "optionalDependencies" : {
-	  "safe_app" : "https://github.com/joshuef/dep_repository/raw/Storage/safe_app/libsafe_app.dylib.tar.gz"
+	  "safe_app" : "https://s3.eu-west-2.amazonaws.com/safe-client-libs/safe_app-0.9.1-linux-x64.tar.gz"
   }
 }

@@ -5,7 +5,7 @@
   "author": "Josh Wilson <joshuef@gmail.com>",
   "license": "MIT",
   "os" : [ "win32" ],
-  "optionalDependencies" : {
-	  "safe_app" : "https://s3.eu-west-2.amazonaws.com/safe-client-libs/safe_app-0.9.1-win-x64.tar.gz"
+  "dependencies" : {
+	  "safe_app_lib" : "https://s3.eu-west-2.amazonaws.com/safe-client-libs/safe_app-0.9.1-win-x64.tar.gz"
   }
 }
