@@ -1,6 +1,6 @@
 {
   "name": "safe-app-libs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "Josh Wilson <joshuef@gmail.com>",
   "license": "MIT",
