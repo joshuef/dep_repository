@@ -5,9 +5,5 @@
   "author": "Josh Wilson <joshuef@gmail.com>",
   "license": "MIT",
   "postinstall" : "echo 'done'",
-  "os" : [ "darwin" ],
-  "dependencies" : {
-	"safe_app_lib" : "https://github.com/joshuef/dep_repository/raw/AnewOne/tars/darwin.tar.gz",
-	"safe_app_lib_mock" : "https://github.com/joshuef/dep_repository/raw/AnewOne/tars/darwin.mock.tar.gz"
-  }
+  "os" : [ "darwin" ]
 }
